@@ -5,5 +5,7 @@
 # Find the sum of  'num_one' and 'num_two' then assign to 'variable_total'
 
 num_one = 5
+
 num_two = 4
+
 variable_total = num_one + num_two
